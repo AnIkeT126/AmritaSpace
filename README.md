@@ -6,7 +6,7 @@ This project is completed by Aniket Mishra (CH.EN.U4CYS20004) and Jayanta Sikdar
 
 # Hosted OCR Engine
 
-The code for "Hosted OCR Engine" is available at [Hosted OCR Engine](https://github.com/AnIkeT126/AmritaSpaceModels](https://amritaspace-ocrengine.onrender.com/)).
+The r "Hosted OCR Engine" is available at [Hosted OCR Engine](https://amritaspace-ocrengine.onrender.com/).
 
 
 # AmritaSpaceModels
