@@ -1,8 +1,6 @@
 # AmritaSpace
 
-This Repo holds links for all the repositories where the code developed for the completion of the Final Year Project of Amrita Space: Advanced CMS Enterprise Powered by a Deep Learning Model resides.
-
-This project is completed by Aniket Mishra (CH.EN.U4CYS20004) and Jayanta Sikdar (CH.EN.U4CYS20031) under the supervised guidance of Dr. Udhaya Kumar S.
+This Repo holds links for all the repositories where the code developed for the completion of the Project of Amrita Space: Advanced CMS Enterprise Powered by a Deep Learning Model resides.
 
 ## Descirption
 
