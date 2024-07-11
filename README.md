@@ -27,7 +27,18 @@ of these models on a bundle of images when used via a PDF and high Character Err
 we migrate to the profound use of Cloud Vision API, that was a pet project of Alphabet Inc. and
 layer this over another strip to be used by the teachers and students so that the CMS transcends
 the boundaries that might be set in a real world sceanio.
-Keywords:
+
+
+# AmritaSpaceFront
+
+The code for "Amrita Space CMS Front-End" is available at [AmritaSpaceFront](https://github.com/AnIkeT126/AmritaSpaceFront).
+
+---
+
+# AmritaSpaceBack
+
+The code for "Amrita Space CMS Back-End" is available at [AmritaSpaceBack](https://github.com/AnIkeT126/AmritaSpaceBack).
+
 
 # Hosted OCR Engine
 
@@ -46,13 +57,3 @@ The code for "OCR-Engine" is available at [OCR-Engine](https://github.com/AnIkeT
 
 ---
 
-
-# AmritaSpaceFront
-
-The code for "Amrita Space CMS Front-End" is available at [AmritaSpaceFront](https://github.com/AnIkeT126/AmritaSpaceFront).
-
----
-
-# AmritaSpaceBack
-
-The code for "Amrita Space CMS Back-End" is available at [AmritaSpaceBack](https://github.com/AnIkeT126/AmritaSpaceBack).
